@@ -214,3 +214,4 @@ The actual memory requirement depends on context length, KV cache, concurrent pr
 The Qwen3.5 GGUF is a deployment artifact for the Ollama investigator.
 
 It is not a GGUF conversion of the custom THEIA PyTorch checkpoint.
+use : ollama run theia-apt-investigator
